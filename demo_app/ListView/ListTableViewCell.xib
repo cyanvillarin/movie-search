@@ -17,15 +17,15 @@
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cqo-b7-VGb">
-                        <rect key="frame" x="25" y="19.666666666666668" width="232" height="21.000000000000004"/>
+                        <rect key="frame" x="25" y="19.666666666666668" width="222" height="21.000000000000004"/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="16" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="drq-HD-YVM">
-                        <rect key="frame" x="267" y="19.666666666666668" width="50" height="21.000000000000004"/>
+                        <rect key="frame" x="257" y="19.666666666666668" width="60" height="21.000000000000004"/>
                         <constraints>
-                            <constraint firstAttribute="width" constant="50" id="jqU-Jn-8Rx"/>
+                            <constraint firstAttribute="width" constant="60" id="jqU-Jn-8Rx"/>
                         </constraints>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <nil key="textColor"/>
